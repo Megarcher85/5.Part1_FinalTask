@@ -1,0 +1,14 @@
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\bin\Debug\net8.0\5.Part1_FinalTask.exe
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\bin\Debug\net8.0\5.Part1_FinalTask.deps.json
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\bin\Debug\net8.0\5.Part1_FinalTask.runtimeconfig.json
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\bin\Debug\net8.0\5.Part1_FinalTask.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\bin\Debug\net8.0\5.Part1_FinalTask.pdb
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\refint\5.Part1_FinalTask.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.pdb
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.genruntimeconfig.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\ref\5.Part1_FinalTask.dll
