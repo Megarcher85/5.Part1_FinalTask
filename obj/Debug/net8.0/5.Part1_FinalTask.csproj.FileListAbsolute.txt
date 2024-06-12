@@ -12,3 +12,4 @@ C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net
 C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.pdb
 C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.genruntimeconfig.cache
 C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\ref\5.Part1_FinalTask.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\5.Part1_FinalTask\obj\Debug\net8.0\5.Part1_FinalTask.sourcelink.json
